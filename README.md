@@ -1,2 +1,4 @@
 # hello-world
-This is the standard starter repository
+
+I am looking at how one uses GitHub
+as a test
